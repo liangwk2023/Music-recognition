@@ -23,3 +23,5 @@ pip install -r requirements.txt
 
 # 其他
 由于是在win11上开发，没有适配win10，所以扬声器识别必须有What U Hear设备才行，且在win10上可能会报错。
+## 开发者
+此项目由Kimi AI开发
