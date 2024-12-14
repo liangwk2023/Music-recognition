@@ -16,9 +16,9 @@
 python3.11
 
 # 安装依赖
-'''
-pip install -r requirements.txt
-'''
+    ```
+    pip install -r requirements.txt
+    ```
 建议使用虚拟环境进行编译，因为可能需要降级pip(库文件不支持高版本pip)
 
 # 其他
