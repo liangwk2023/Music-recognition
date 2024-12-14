@@ -15,5 +15,11 @@
 # 环境
 python3.11
 
+# 安装依赖
+'''
+pip install -r requirements.txt
+'''
+建议使用虚拟环境进行编译，因为可能需要降级pip(库文件不支持高版本pip)
+
 # 其他
 由于是在win11上开发，没有适配win10，所以扬声器识别必须有What U Hear设备才行，且在win10上可能会报错。
